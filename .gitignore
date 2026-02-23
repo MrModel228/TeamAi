@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+teamAi_output.md
+teamAi_report.md
+.pytest_cache/
+*.log
